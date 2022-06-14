@@ -1,1 +1,1 @@
-# Project_Smoke-_testing_of-_website_demoqa.com
+# Project_Smoke_testing_of_website_demoqa.com
