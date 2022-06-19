@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0882f6fe-b43d-4a3c-9446-2c8516e7ef2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/basePage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elementsPages/CheckBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elementsPages/ElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elementsPages/RadioButtonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elementsPages/TextBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elementsPages/WebTablesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/homePage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/CheckBoxPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/ElementsPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/ElementsPagesBaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/RadioButtonPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/TextBoxPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/elementsPagesTests/WebTablesPageTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AYnqzAIsFzjLzwJuBG4fzqLUPl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.ElementsPageTests">
+    <configuration name="ElementsPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Smoke_testing_of_website_demoqa.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elementsPagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elementsPagesTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.elementsPagesTests.ElementsPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Smoke_testing_of_website_demoqa.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elementsPagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elementsPagesTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.elementsPagesTests.WebTablesPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesPageTests.clickOn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Smoke_testing_of_website_demoqa.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elementsPagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elementsPagesTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.elementsPagesTests.WebTablesPageTests" />
+      <option name="METHOD_NAME" value="clickOn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesPageTests.verifyRowsPerPageIsAsUserHasSelected" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Smoke_testing_of_website_demoqa.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elementsPagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elementsPagesTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.elementsPagesTests.WebTablesPageTests" />
+      <option name="METHOD_NAME" value="verifyRowsPerPageIsAsUserHasSelected" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesPageTests.verifyVisibilityOfSelectTableSizeElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Smoke_testing_of_website_demoqa.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.elementsPagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.elementsPagesTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.elementsPagesTests.WebTablesPageTests" />
+      <option name="METHOD_NAME" value="verifyVisibilityOfSelectTableSizeElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ElementsPageTests" />
+        <item itemvalue="TestNG.WebTablesPageTests.verifyVisibilityOfSelectTableSizeElement" />
+        <item itemvalue="TestNG.WebTablesPageTests.verifyRowsPerPageIsAsUserHasSelected" />
+        <item itemvalue="TestNG.WebTablesPageTests" />
+        <item itemvalue="TestNG.WebTablesPageTests.clickOn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0882f6fe-b43d-4a3c-9446-2c8516e7ef2a" name="Changes" comment="" />
+      <created>1655195585714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655195585714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
