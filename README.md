@@ -9,9 +9,6 @@ Concepts Included:
 
 Page Object pattern
 
-Dependencies:
-selenium-java version 4.2.2
-testng version 7.5    
-lombok version 1.18.24
+Dependencies:selenium-java version 4.2.2, testng version 7.5, lombok version 1.18.24
 
 
